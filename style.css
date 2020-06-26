@@ -43,6 +43,12 @@ body{
   width: 50%;
 }
 
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 main {
   border: 3px solid #F1F0EA;
   padding: 10px;
