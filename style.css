@@ -1,3 +1,6 @@
+
+/* main styles */
+
 header {
   background-color: #474448;
 }
@@ -34,7 +37,7 @@ body{
 
 
 
-
+/* classes */
 
 .center {
   display: block;
@@ -56,7 +59,7 @@ main {
 
 
 
-
+/* gap classes*/
 
 .gap-sm {
     height: 50px;
@@ -78,6 +81,8 @@ main {
 .bg-accent{
   background-color: #F1F0EA;
 }
+
+/* links */
 
 a:link { color: #5dc4ad; }
 a:visited { color: #38786a; }
